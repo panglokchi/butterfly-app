@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "butterfly-app",
+    "slug": "butterfly-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "butterfly-app"
+}
